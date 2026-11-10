@@ -1,0 +1,9 @@
+# Local environment variables. This file is git-ignored; never commit it.
+# Replace the placeholders with your real values.
+
+NODE_ENV=development
+PORT=3000
+
+# Example API keys
+API_KEY=your-api-key-here
+DATABASE_URL=
